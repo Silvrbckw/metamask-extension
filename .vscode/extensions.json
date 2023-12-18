@@ -1,3 +1,6 @@
 {
-  "recommendations": ["rvest.vs-code-prettier-eslint"]
+  "recommendations": [
+    "rvest.vs-code-prettier-eslint",
+    "eg2.vscode-npm-script"
+  ]
 }
